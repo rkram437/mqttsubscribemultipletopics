@@ -1,0 +1,23 @@
+{
+  "name": "mqttsubsribemultipletopics",
+  "version": "1.0.0",
+  "description": "subscribe to multiple mqtt subscribers",
+  "main": "subscriber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkram437/mqttsubscribemultipletopics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkram437/mqttsubscribemultipletopics/issues"
+  },
+  "homepage": "https://github.com/rkram437/mqttsubscribemultipletopics#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.6",
+    "lodash": "^4.17.20"
+  }
+}
